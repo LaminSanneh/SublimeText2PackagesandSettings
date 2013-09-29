@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DashDoc",
+		"Emmet",
+		"Gist",
+		"HTML2Jade",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
